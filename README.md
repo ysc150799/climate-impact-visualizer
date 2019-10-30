@@ -24,3 +24,20 @@ We implemented a regression model that can tell the global temperature at any ti
 <img src='images/456.PNG' width=100% height=50%/> <br/>
 <img src='images/700.PNG' width=100% height=50%/> <br/>
 
+## Instructions
+```
+git clone https://github.com/Starlord6199/climate-impact-visualizer.git
+cd climate-impact-visualizer
+python -m http.server 8088
+```
+In another terminal instance, enter these commands:
+```
+cd climate-impact-visualizer/webanalysis
+python appy.py
+```
+Then open the webapp, by simply clicking on 'lhomepage.html'.
+
+
+
+
+
