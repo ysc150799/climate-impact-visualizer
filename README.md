@@ -40,6 +40,12 @@ python appy.py
 ```
 Then open the webapp, by simply clicking on 'lhomepage.html'.
 
+### Dependencies (appy.py)
+* python
+* Flask
+* scikit-learn
+
+
 
 
 
