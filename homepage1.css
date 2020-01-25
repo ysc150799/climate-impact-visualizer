@@ -1,0 +1,34 @@
+body
+{
+	background-image: url("starfield.gif");
+}
+.Features-column
+{
+	text-align: center;
+}
+.Earth
+{
+	text-align: center; 
+}
+.section-heading
+{
+	font-family: "Montserrat";
+	color: #fff;
+	text-align: center;
+	font-size: 2.5rem;
+  	line-height: 1.5;
+}
+.navbar-brand
+{
+font-family: "Montserrat-Black";
+  font-weight: bold;
+  padding-left: 1%;
+}
+h1
+{
+	font-size: 5rem;
+}
+.card-body
+{
+	font-weight: bold;
+}
